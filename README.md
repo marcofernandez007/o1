@@ -5,7 +5,6 @@ This is a Python implementation of a simplified framework inspired by the "o1" r
 
 We'll use PyTorch to define a reinforcement learning environment where the policy is a neural network, and the reward design incorporates outcome-based rewards. For simplicity, this example represents a token-level search task where the agent learns to generate sequences similar to a target.
 
-# Based on: https://arxiv.org/pdf/2412.14135
 Briefing Doc: Scaling Search and Learning for AI - A Roadmap to Reproduce OpenAI's o1
 Source: Zeng, Z., et al. "Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective." arXiv preprint arXiv:2412.14135 (2024).
 
