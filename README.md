@@ -1,5 +1,4 @@
-# o1
-Simplified "o1" Framework
+# Simplified "o1" Framework
 
 This is a Python implementation of a simplified framework inspired by the "o1" roadmap. This example focuses on reinforcement learning principles using policy initialization, reward design, and a search strategy.
 
